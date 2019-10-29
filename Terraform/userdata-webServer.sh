@@ -1,0 +1,2 @@
+#!/bin/bash
+/usr/local/bin/ansible  /local/mycompany/webServer-provisioner.yml
