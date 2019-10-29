@@ -1,4 +1,6 @@
 # interview
-interview question
-<p>Terraform 
-Ansible </p>
+
+
+terraform apply -var-file=dev.tfvars
+
+
